@@ -1,0 +1,5 @@
+v, a, t = input().split()
+v = float(v)
+a = float(a)
+t = float(t)
+print(v*t + a*t*t*0.5)
